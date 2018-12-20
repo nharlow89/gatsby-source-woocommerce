@@ -9,6 +9,7 @@
   "author": "Marc Aaron Glasser",
   "license": "ISC",
   "dependencies": {
+    "gatsby-source-wordpress": "^3.0.21",
     "woocommerce-api": "^1.4.2"
   }
 }
